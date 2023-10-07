@@ -1,0 +1,26 @@
+.header {
+  top: 0;
+  left: 0;
+  width: 95%;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+.logo {
+  margin-right: 120px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.customNav {
+  font-size: 15px;
+}
