@@ -4,7 +4,7 @@ Submitted by: **Philip Park**
 
 About this web app: **A virtual community space that lets users explore events by location.**
 
-Time spent: **10** hours
+Time spent: **15** hours
 
 ## Required Features
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 <<<<<<< HEAD
 
-<img src=' ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/UxUnlxm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 =======
 https://imgur.com/a/yylCBvF
