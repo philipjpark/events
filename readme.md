@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
-<img src='https://imgur.com/a/UxUnlxm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/UxUnlxm
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap.
@@ -46,7 +46,8 @@ GIF created with Kap.
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
-I am having an issue with clicking on a Location and shows a list of all items from the Events table that corresponds to that Location.
+
+I am having an issue with clicking on a Location and showing a list of all items from the Events table that corresponds to that Location.
 
 ## License
 
