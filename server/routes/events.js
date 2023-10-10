@@ -7,4 +7,7 @@ const router = express.Router();
 router.get('/', EventsController.getAllEvents);
 router.get('/:eventId', EventsController.getEventById);
 
+// Create an API endpoint to get events by location
+router.get('/location/:location', EventsController.getEventsByLocation);
+
 export default router;

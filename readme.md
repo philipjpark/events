@@ -12,13 +12,13 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 
-- [ ] **The web app uses React to display data from the API**
+- [X] **The web app uses React to display data from the API**
 - [X] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
   - [X] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
 - [X] **The web app displays the title of the app**
 - [X] **A visual interface allows the user to select a Location they would like to view**
 - [ ] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
-- [ ] **Each Location detail page should have its own unique URL**
+- [X] **Each Location detail page should have its own unique URL**
 
 The following **optional** features are implemented:
 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=' ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
@@ -45,7 +45,7 @@ GIF created with ...  GIF tool here
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
-I am having issues connecting the client with the server. I will continue working on it. 
+I am having an issue with clicking on a Location and shows a list of all items from the Events table that corresponds to that Location.
 
 ## License
 

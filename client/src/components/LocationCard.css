@@ -1,0 +1,17 @@
+.banner {
+    color: var(--primary);
+    margin-bottom: 50px;
+}
+
+
+article {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+
+.img {
+    margin-bottom: 20px;
+}

@@ -10,17 +10,14 @@
 }
 
 .logo {
+  color: gray;
   margin-right: 120px;
-  font-size: 18px;
-  font-weight: 700;
+  font-size: 22px;
+  font-weight: 900;
 }
 
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.customNav {
-  font-size: 15px;
 }

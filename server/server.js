@@ -12,6 +12,8 @@ app.use(cors())
 app.use('/events', eventsRouter);
 app.use('/locations', locationsRouter);
 
+
+
 app.get('/', (req, res) => {
   res.status(200).send('<h1 style="text-align: center; margin-top: 50px;">Events API</h1>')
 })

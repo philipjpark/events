@@ -12,9 +12,10 @@ const createEventsTable = async () => {
 
         CREATE TABLE IF NOT EXISTS events (
             id SERIAL PRIMARY KEY,
+            location VARCHAR(255) NOT NULL,
             title VARCHAR(255) NOT NULL,
-            date DATE NOT NULL,
-            time TIME NOT NULL,
+            date VARCHAR(255) NOT NULL,
+            time VARCHAR(255) NOT NULL,
             image VARCHAR(255) NOT NULL
         )
     `;
@@ -55,10 +56,10 @@ const seedEventsTable = async () => {
 
     eventData.forEach((event) => {
         const insertQuery = {
-            text: 'INSERT INTO events (title, date, time, image) VALUES ($1, $2, $3, $4)'
+            text: 'INSERT INTO events (location, title, date, time, image) VALUES ($1, $2, $3, $4, $5)'
         };
 
-        const values = [event.title, event.date, event.time, event.image];
+        const values = [event.location, event.title, event.date, event.time, event.image];
 
         pool.query(insertQuery, values, (err, res) => {
             if (err) {
