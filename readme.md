@@ -32,11 +32,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+<<<<<<< HEAD
 
 <img src=' ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+=======
+https://imgur.com/a/yylCBvF
+>>>>>>> ece0c79bfe85197907362a607dd0f244a089df0e
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
+GIF created with Kap.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
